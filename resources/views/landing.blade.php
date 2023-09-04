@@ -7,12 +7,11 @@
 <div class="container-fluid" data-aos="fade-up">
   <div class="row justify-content-center">
     <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h1>Bettter Digital Experience With Techie</h1>
-      <h2>We are team of talented designers making websites with Bootstrap</h2>
-      <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
+      <h1>Great Things Coming Soon</h1>
+      <h2>Meningkatkan Efisiensi, Aksesibilitas, dan Keamanan Transaksi Koperasi</h2>
     </div>
     <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-      <img src="{{url('Techie')}}/assets/img/hero-img.png" class="img-fluid animated" alt="">
+      <img src="{{url('Techie')}}/assets/img/akn.png" class="img-fluid animated" alt="">
     </div>
   </div>
 </div>
@@ -27,18 +26,19 @@
 
     <div class="row">
       <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
-        <img src="{{url('Techie')}}/assets/img/about.jpg" class="img-fluid" alt="">
+        <img src="{{url('Techie')}}/assets/img/software.png" class="img-fluid" alt="">
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-        <h3>Voluptatem dignissimos provident quasi corporis</h3>
+        <h3>Mudahkan Laporan Akuntansi Anda dengan</h3>
         <p class="fst-italic">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
           magna aliqua.
         </p>
         <ul>
-          <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-          <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-          <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+          <li><i class="bi bi-check-circle"></i>Akses yang mudah</li>
+          <li><i class="bi bi-check-circle"></i>Biaya yang terjangkau</li>
+          <li><i class="bi bi-check-circle"></i>Pengelolaan yang mudah</li>
+          <li><i class="bi bi-check-circle"></i>Backup dan keamanan data</li>
         </ul>
         <a href="#" class="read-more">Read More <i class="bi bi-long-arrow-right"></i></a>
       </div>
@@ -53,27 +53,26 @@
 
     <div class="row counters">
 
-      <div class="col-lg-3 col-6 text-center">
-        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Clients</p>
+      <div class="col-lg-4 col-7 text-center">
+        <span data-purecounter-start="0" data-purecounter-end="14800" data-purecounter-duration="1" class="purecounter"></span>
+        <p>Pengusaha</p>
       </div>
 
-      <div class="col-lg-3 col-6 text-center">
-        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Projects</p>
+      <div class="col-lg-4 col-7 text-center">
+        <span data-purecounter-start="0" data-purecounter-end="347" data-purecounter-duration="1" class="purecounter"></span>
+        <p>Kota/Kabupaten</p>
       </div>
 
-      <div class="col-lg-3 col-6 text-center">
-        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Hours Of Support</p>
+      <div class="col-lg-4 col-7 text-center">
+        <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
+        <p>Bidang Usaha</p>
       </div>
 
-      <div class="col-lg-3 col-6 text-center">
+      <!-- <div class="col-lg-3 col-6 text-center">
         <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
         <p>Hard Workers</p>
       </div>
-
-    </div>
+    </div> -->
 
   </div>
 </section><!-- End Counts Section -->
@@ -83,8 +82,8 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-title">
-      <h2>Services</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <h2>Features</h2>
+      <p>Nikmati layanan yang kami berikan</p>
     </div>
 
     <div class="row gy-4">
@@ -96,8 +95,8 @@
             </svg>
             <i class="bx bxl-dribbble"></i>
           </div>
-          <h4><a href="">Lorem Ipsum</a></h4>
-          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+          <h4><a href="">Akuntansi Koperasi dan UKM</a></h4>
+          <p>Cabang akuntansi yang khusus menangani pencatatan, pengukuran, dan pelaporan keuangan dari koperasi dan usaha mikro, kecil, dan menengah.</p>
         </div>
       </div>
 
@@ -109,8 +108,8 @@
             </svg>
             <i class="bx bx-file"></i>
           </div>
-          <h4><a href="">Sed Perspiciatis</a></h4>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+          <h4><a href="">Aplikasi Simpan Pinjam Gratis</a></h4>
+          <p>Akuntansi koperasi adalah suatu sistem pencatatan, pengelolaan, dan pelaporan keuangan yang digunakan oleh koperasi untuk menghasilkan informasi keuangan yang berguna dan akurat dalam mengelola keuangan koperasi.</p>
         </div>
       </div>
 
@@ -122,8 +121,8 @@
             </svg>
             <i class="bx bx-tachometer"></i>
           </div>
-          <h4><a href="">Magni Dolores</a></h4>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+          <h4><a href="">Aplikasi Koperasi Digital</a></h4>
+          <p>Aplikasi koperasi digital adalah aplikasi yang dirancang untuk membantu pengelolaan koperasi secara digital.</p>
         </div>
       </div>
 
@@ -135,8 +134,8 @@
             </svg>
             <i class="bx bx-layer"></i>
           </div>
-          <h4><a href="">Nemo Enim</a></h4>
-          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+          <h4><a href="">Laporan Keuangan Koperasi Simpan Pinjam</a></h4>
+          <p>Simpan pinjam adalah kegiatan yang dilakukan untuk menghimpun dana dan menyalurkannya melalui kegiatan usaha simpan pinjam dari dan untuk anggota koperasi yang bersangkutan, calon anggota koperasi yang bersangkutan, koperasi lain dan atau anggotanya.</p>
         </div>
       </div>
 
@@ -148,8 +147,8 @@
             </svg>
             <i class="bx bx-slideshow"></i>
           </div>
-          <h4><a href="">Dele Cardo</a></h4>
-          <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+          <h4><a href="">Manajemen Faktur dan Transaksi</a></h4>
+          <p>Manajemen faktur dan transaksi adalah salah satu fitur yang sangat penting terutama bagi perusahaan dagang dan manufaktur.</p>
         </div>
       </div>
 
@@ -161,8 +160,8 @@
             </svg>
             <i class="bx bx-arch"></i>
           </div>
-          <h4><a href="">Divera Don</a></h4>
-          <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+          <h4><a href="">Cash Flow Forecasting</a></h4>
+          <p>Cash flow forecasting (prakiraan arus kas) membantu perusahaan memprediksi pendapatan, keuntungan, biaya pengeluaran, hingga kerugian bisnis mereka di masa depan.</p>
         </div>
       </div>
 
@@ -176,35 +175,30 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-title">
-      <h2>Features</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <h2>Motto</h2>
+      <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
     </div>
 
     <div class="row">
       <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column align-items-lg-center">
         <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
           <i class="bx bx-receipt"></i>
-          <h4>Est labore ad</h4>
-          <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+          <h4>Percayakan tugas Anda kepada tim</h4>
+          <p>Serahkan kegiatan Administrasi pada tim dan Anda dapat fokus mengembangkan bisnis. Dengan akses multi-user, Anda dapat membagi tugas kepada anggota tim sesuai dengan kebutuhan./p>
         </div>
         <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
           <i class="bx bx-cube-alt"></i>
-          <h4>Harum esse qui</h4>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+          <h4>Kerja tanpa batasan ruang</h4>
+          <p>Selesaikan pekerjaan Anda dari mana saja untuk memberikan hasil kerja yang lebih efisien seperti membuat faktur penjualan dan pembelian, cek stok barang, hingga, persetujuan transaksi.</p>
         </div>
         <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
           <i class="bx bx-images"></i>
-          <h4>Aut occaecati</h4>
-          <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-        </div>
-        <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="400">
-          <i class="bx bx-shield"></i>
-          <h4>Beatae veritatis</h4>
-          <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+          <h4>Lihat laporan keuangan setiap saat</h4>
+          <p>Kini Anda tidak perlu menunggu hingga akhir bulan untuk mengetahui kondisi keuangan perusahaan. Lakukan analisa dan pengambilan keputusan lebih cepat untuk kemajuan bisnis Anda.</p>
         </div>
       </div>
       <div class="image col-lg-6 order-1 order-lg-2 " data-aos="zoom-in" data-aos-delay="100">
-        <img src="{{url('Techie')}}/assets/img/features.svg" alt="" class="img-fluid">
+        <img src="{{url('Techie')}}/assets/img/Homepage.png" alt="" class="img-fluid">
       </div>
     </div>
 
@@ -300,17 +294,20 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-title">
-      <h2>Portfolio</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <h2>Features</h2>
+      <p>Semua kebutuhan bisnis Anda, dalam satu Aplikasi</p>
     </div>
 
     <div class="row">
       <div class="col-lg-12 d-flex justify-content-center">
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
+          <li data-filter=".filter-app">Invoicing</li>
+          <li data-filter=".filter-card">Purchase</li>
+          <li data-filter=".filter-web">Sales</li>
+          <li data-filter=".filter-web">Bank Reconciliation</li>
+          <li data-filter=".filter-web">Inventory</li>
+          <li data-filter=".filter-web">Report</li>
         </ul>
       </div>
     </div>
@@ -319,13 +316,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/invoice.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>App 1</h4>
             <p>App</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/invoice.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -333,13 +330,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/invoice2.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Web 3</h4>
             <p>Web</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/invoice2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -347,13 +344,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/purchase.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>App 2</h4>
             <p>App</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/purchase.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -361,13 +358,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/purchase2.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Card 2</h4>
             <p>Card</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/purchase2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -375,13 +372,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/bank.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Web 2</h4>
             <p>Web</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/bank.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -389,13 +386,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/bank2.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>App 3</h4>
             <p>App</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/bank2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -403,13 +400,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/inventory.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Card 1</h4>
             <p>Card</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/inventory.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -417,13 +414,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/BalanceSheet.JPG" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Card 3</h4>
             <p>Card</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/BalanceSheet.JPG" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -431,13 +428,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="{{url('Techie')}}/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/report.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Web 3</h4>
             <p>Web</p>
           </div>
           <div class="portfolio-links">
-            <a href="{{url('Techie')}}/assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+            <a href="{{url('Techie')}}/assets/img/report.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
             <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
@@ -545,33 +542,37 @@
     <div class="faq-list">
       <ul>
         <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
-          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Percepat Perkembangan Bisnis dengan software akuntansi<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
           <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+            Semakin cepat pekerjaan akuntansi di bisnis Anda, semakin cepat pula Anda dalam menentukan strategi bisnis. Bayangkanlah apa yang akan Anda dapatkan ketika semua data yang Anda perlukan untuk mengelola bisnis cepat tersaji di meja kerja Anda.
+            Itulah cara kerja software akuntansi yang akan mempercepat pertumbuhan bisnis Anda. Agar mudah mengetahui kinerja sebuah aplikasi akuntansi, Anda harus memahaminya dari hal yang mendasar.
             </p>
           </div>
         </li>
 
         <li data-aos="fade-up" data-aos-delay="200">
-          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Pengertian Software Akuntansi<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
           <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+            Software akuntansi adalah sebuah program atau aplikasi komputer yang mempermudah dan mempercepat tugas para akuntan atau bagian pembukuan dalam mencatat dan mengelola transaksi keuangan dalam perusahaan.
+            Dengan menggunakan software akuntansi, seorang akuntan dapat melaporkan utang, piutang, laporan keuangan, invois atau faktur, jurnal, buku besar, neraca saldo, persediaan barang, pembukuan, dan penggajian dengan otomatis dan selalu mutakhir. Aplikasi program akuntansi merupakan solusi terbaik dalam mengembangkan bisnis dengan sistem yang lebih modern dan efisien. Software akuntansi ini mampu melacak setiap detail transaksi dan dapat menganalisis bisnis Anda secara saksama.
+            Data yang tersimpan dalam software akuntansi juga lebih aman, apalagi aplikasi akuntansi tersebut sudah mengadopsi teknologi cloud computing yang data di dalamnya dapat diakses kapanpun dan di manapun secara online.
             </p>
           </div>
         </li>
 
         <li data-aos="fade-up" data-aos-delay="300">
-          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Manfaat Software Akuntansi untuk Bisnis<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
           <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
             <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+            Aplikasi akuntansi dapat menghemat waktu dan biaya. Dengan sistem program yang bekerja secara otomatis dan cermat, ia akan membuat pekerjaan akuntansi Anda menjadi lebih cepat, maka Anda tidak memerlukan banyak staf untuk melakukan pembukuan. Software akuntansi juga sudah menyediakan kemudahan dalam menyusun laporan keuangan secara terperinci, tanpa error, dan cepat. Cukup dengan sekali klik, laporan keuangan mulai laporan neraca, laporan arus kas, dan laporan laba rugi sudah tersedia di genggaman Anda. Menggunakan program akuntansi dapat meniadakan risiko kesalahan pada perhitungan laporan keuangan Anda sehingga Anda tidak perlu membuang banyak waktu untuk sekadar melakukan pengecekan ulang.
+            Semua data yang tersimpan dalam software akuntansi lebih aman. Bayangkan jika Anda masih menggunakan pembukuan manual, Anda mesti menyiapkan banyak ruang dan pelacakan transaksi Anda juga akan lebih sulit dan lambat. Berbeda dengan menggunakan software akuntansi, yang mana Anda dengan mudah melihat data-data transaksi sebelumnya dengan cepat. Aplikasi akuntansi online lebih memanjakan Anda dalam mengolah data-data laporan keuangan perusahaan. Anda bisa melakukan pekerjaan di mana saja dan dapat melihatnya kapan saja melalui akses internet.
             </p>
           </div>
         </li>
 
-        <li data-aos="fade-up" data-aos-delay="400">
+        <!-- <li data-aos="fade-up" data-aos-delay="400">
           <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
           <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
             <p>
@@ -587,7 +588,7 @@
               Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
             </p>
           </div>
-        </li>
+        </li> -->
 
       </ul>
     </div>
@@ -601,7 +602,7 @@
 
     <div class="section-title">
       <h2>Contact</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
     </div>
 
     <div class="row">

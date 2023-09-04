@@ -6,13 +6,13 @@
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact">
-        <h3>Techie</h3>
+        <h3>MARSTECH</h3>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022<br>
-          United States <br><br>
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          Office: JL. Margatama Asri IV No. 3<br>
+          Kota Madiun<br>
+          Jawa Timur<br><br>
+          <strong>Phone:</strong>0351-2812555<br>
+          <strong>Email:</strong>cs@example.com<br>
         </p>
       </div>
 
@@ -28,22 +28,13 @@
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Our Services</h4>
+        <h4>Produk</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">DIKO SP</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">DIKO POS</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Andromeda SP</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Andromeda POS</a></li>
         </ul>
-      </div>
-
-      <div class="col-lg-4 col-md-6 footer-newsletter">
-        <h4>Join Our Newsletter</h4>
-        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-        <form action="" method="post">
-          <input type="email" name="email"><input type="submit" value="Subscribe">
-        </form>
       </div>
 
     </div>
@@ -55,7 +46,7 @@
   <div class="copyright-wrap d-md-flex py-4">
     <div class="me-md-auto text-center text-md-start">
       <div class="copyright">
-        &copy; Copyright <strong><span>Techie</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>MARSTECH</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
