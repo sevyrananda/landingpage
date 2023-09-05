@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\dashbordController;
 use App\Http\Controllers\landingController;
+use App\Http\Controllers\andromedaController;
+use App\Http\Controllers\LoginController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -27,3 +29,7 @@ Route::get('/hello', [dashbordController::class, 'hello'])->name('alam');
 Route::get('/dashboard', [dashbordController::class, 'index'])->name('dashboard');
 
 Route::get('/landing', [landingController::class, 'index'])->name('landing');
+
+Route::get('/andromeda', [andromedaController::class, 'index'])->name('andromeda');
+
+Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');
